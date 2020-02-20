@@ -1,0 +1,3 @@
+Instructions:
+
+Created the game in Windows Form so opening the project in Visual Studio and pressing play should be the only instructions needed. 
