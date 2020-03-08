@@ -1,5 +1,5 @@
 # LeftCenterRight
-Windows Form Application based on the Left Center Right game
+Windows Forms Application based on the Left Center Right game
 
 This is my version of the family game called Left Center Right using C# and Windows Forms in Visual Studio. 
 it is a chip and dice based game in which the person with the last chip who rolls a circle wins. 
